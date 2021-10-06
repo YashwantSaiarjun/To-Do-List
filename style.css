@@ -1,0 +1,42 @@
+html,body{
+    width:55%;
+    margin: 0 auto;
+    background-color:#FFF500;
+
+}
+.container{
+    width: 360px;
+
+}
+h1{
+    font-family: 'Abel', sans-serif;
+
+}
+#InputField{
+    width: 300px;
+    height: 43px;
+    border: 3px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+    font-family: 'Abel', sans-serif;
+
+}
+#addToDo{
+    width:50px;
+    height:50px;
+    vertical-align: middle;
+    font-size: 25px;
+    border-radius: 10%;
+    border: 3px solid black;
+    outline: none;
+    font-weight: bold;
+}
+.paragraph-styling{
+    margin:0;
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: 200px;
+    font-family: 'Abel', sans-serif;
+
+}
